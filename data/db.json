@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Limpar a casa",
+      "isFav": true
+    },
+    {
+      "id": "2",
+      "title": "Lavar banheiro",
+      "isFav": false
+    },
+    {
+      "id": "1560",
+      "title": "Tomar suco de abacaxi",
+      "isFav": true
+    },
+    {
+      "id": "4471",
+      "title": "Comprar pão",
+      "isFav": true
+    }
+  ]
+}
